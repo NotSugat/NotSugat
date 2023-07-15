@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotSugat
 - 👀 I’m interested in Website development, Web design...
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning web development.
 - 
 - 📫 How to reach me through my email sugatsujakhu1@gmail.com
 
