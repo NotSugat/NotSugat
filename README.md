@@ -4,7 +4,7 @@
 - 
 - 📫 How to reach me through my email sugatsujakhu1@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsugat&" alt="notsugat" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsugat&" alt="notsugat" /></p>
 
 <!---
 NotSugat/NotSugat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
