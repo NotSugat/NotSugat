@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website development, Web design...
 - 🌱 I’m currently learning web development.
 - 
-- 📫 How to reach me through my email sugatsujakhu1@gmail.com
+- 📫 How to reach me through my email sugatsujakhu@gmail.com
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsugat&" alt="notsugat" /></p>
 
