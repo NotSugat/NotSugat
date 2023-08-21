@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sugat Sujakhu
-- 👀 I’m interested in Website development, Web design...
+- 👀 I’m interested in Website development, backend development...
 - 🌱 I’m currently learning web development.
 - 
 - 📫 How to reach me through my email sugatsujakhu@gmail.com
