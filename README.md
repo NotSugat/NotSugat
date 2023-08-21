@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NotSugat
+- 👋 Hi, I’m Sugat Sujakhu
 - 👀 I’m interested in Website development, Web design...
 - 🌱 I’m currently learning web development.
 - 
