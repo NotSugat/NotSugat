@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notsugat&show_icons=true&locale=en&layout=compact" alt="notsugat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notsugat&show_icons=true&locale=en" alt="notsugat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-notsugat.vercel.app/api?username=notsugat&show_icons=true&locale=en" alt="notsugat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notsugat&" alt="notsugat" /></p>
 
