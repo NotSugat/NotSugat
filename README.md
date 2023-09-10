@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/notsugat" target="blank"><img src="https://img.shields.io/twitter/follow/notsugat?logo=twitter&style=for-the-badge" alt="notsugat" /></a> </p>
 
-- 🔭 I’m currently working on [Revamp](https://github.com/notsugat/revamp)
+- 🔭 I’m currently working on Paisa Bachau - Price comparing app among popular ecommerce sites of Nepal
 
 - 🌱 I’m currently learning **web development**
 
