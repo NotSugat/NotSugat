@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/notsugat" target="blank"><img src="https://img.shields.io/twitter/follow/notsugat?logo=twitter&style=for-the-badge" alt="notsugat" /></a> </p>
 
-- 🔭 I’m currently working on Pluto browser
-
-- 🌱 I’m currently learning **web development**
+- 🔭 I’m currently working on startup
 
 - 📫 How to reach me **sugatsujakhu@gmail.com**
 
